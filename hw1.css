@@ -1,0 +1,105 @@
+body{background-color: gray;}
+
+header{
+    
+    background-color: white;
+    color: gray;
+    margin: 30px;
+    padding: 5px;
+    clear: both;
+    display: block;
+    overflow: overlay;
+    text-align: center;
+}
+
+nav{
+    
+   background-color: white;
+    color: gray;
+    margin: 30px;
+    padding: 5px;
+    clear: both;
+    display: block;
+    overflow: overlay;
+    text-align: center;  
+    
+}
+
+
+
+    
+
+
+section{
+    text-align: center;
+    background-color: white;
+    color: gray;
+    width: 50%;
+    border: 25px;
+    padding: 5px;
+    margin: 25px;
+    float: left;
+    clear:both;
+    
+}
+    
+aside{
+    text-align: center;
+    background-color: white;
+    color: gray;
+    width:40%;
+    border:25px;
+    padding:5px;
+    margin:25px;
+    float: right;
+    height:570px;
+    overflow: overlay;
+}
+
+article{
+   
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    border: 5px;
+}    
+h2{
+    
+    background-color: white;
+    color: gray;
+    border: white;
+} 
+p middle{
+    margin-top: 5px;
+    text-align: center;
+    
+    
+}
+p{
+    background-color: white;
+    color: gray;
+    text-align: center;
+    padding: 25px;
+    border: 5px;
+}
+
+    
+
+footer{
+    
+    background-color: white;
+    color: gray;
+    margin: 30px;
+    padding: 5px;
+    clear: both;
+    display: block;
+    overflow: overlay;
+    text-align: center;
+    
+}
+
+
+
+
+
